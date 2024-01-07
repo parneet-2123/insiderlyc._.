@@ -1,0 +1,38 @@
+{
+    "name": "green",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "shard.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pauldb09/Allegoria/allegoria.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pauldb09/Allegoria"
+    },
+    "homepage": "https://github.com/pauldb09/Allegoria",
+    "contributors": [
+        "Warix",
+        "Ota"
+    ],
+    "dependencies": {
+        "asciiart-logo": "^0.2.6",
+        "discord-player": "^5.2.0",
+        "discord.js": "^13",
+        "ejs": "3.1",
+        "express": "^4.17.2",
+        "express-session": "^1.17.2",
+        "moment": "^2.29.1",
+        "mongodb": "^6.3.0",
+        "mongoose": "^6.1.5",
+        "morgan": "^1.10.0",
+        "passport": "^0.7.0",
+        "passport-discord": "^0.1.4",
+        "play-dl": "^1.5.0"
+    }
+}

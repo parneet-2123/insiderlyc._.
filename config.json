@@ -1,0 +1,18 @@
+{
+    "bot": {
+        "token": "MTE5MzU3ODU1MzIxMjY4MjI1MA.GvR92Y.m5KDb8K03LZz6fx0X0H2aJJuZDXiULpY_AbhxY",
+        "ownersIDs": ["1147451491771232357"]
+    },
+    "database": {
+        "mongoURL": "mongodb+srv://insiderlyc:bbs1234@cluster0.9bjbwju.mongodb.net/?retryWrites=true&w=majority",
+        "options": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true,
+            "autoIndex": false,
+            "maxPoolSize": 90,
+            "serverSelectionTimeoutMS": 5000,
+            "socketTimeoutMS": 45000,
+            "family": 4
+        }
+    }
+}
